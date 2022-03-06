@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @theundead112
+- 👀 I’m interested in CyberSecurity and Linux Destos
+- 🌱 I’m currently learning Bash CL
